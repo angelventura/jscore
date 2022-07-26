@@ -2,13 +2,13 @@
     "name": "@angelventura/jscore",
     "version": "0.0.0",
     "description": "This contains some core funcionalities",
-    "main": "src/index.js",
+    "main": "lib/index.js",
     "scripts": {
         "test": "DEBUG=test:*  mocha test --recursive  --exit",
         "test2": "DEBUG=*  mocha test --recursive"
     },
     "directories": {
-        "lib": "src/lib",
+        "lib": "lib",
         "test": "test"
     },
     "devDependencies": {
