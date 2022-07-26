@@ -1,7 +1,7 @@
 {
-    "name": "@angelventura/baraja-core",
+    "name": "@angelventura/jscore",
     "version": "0.0.0",
-    "description": "This cotaons some core funcionalities",
+    "description": "This contains some core funcionalities",
     "main": "src/index.js",
     "scripts": {
         "test": "DEBUG=test:*  mocha test --recursive  --exit",
@@ -25,7 +25,7 @@
     "author": "AngelVentura",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/angelventura/eslint-plugin-ejs/issues"
+        "url": "https://github.com/angelventura/jscore/issues"
     },
-    "homepage": "https://github.com/angelventura/eslint-plugin-ejs#readme"
+    "homepage": "https://github.com/angelventura/jscore#readme"
 }
