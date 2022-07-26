@@ -43,7 +43,7 @@ Thumbs.db
 .vscode
 #/dist -> Create a new version
 /old
-/src
+# /src
 /app/js
 /semantic
 
